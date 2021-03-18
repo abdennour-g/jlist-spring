@@ -1,0 +1,1 @@
+A simple application swing from JList in spring context.
